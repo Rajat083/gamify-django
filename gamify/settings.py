@@ -78,6 +78,8 @@ WSGI_APPLICATION = 'gamify.wsgi.application'
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
 
+from dotenv import load_dotenv
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
