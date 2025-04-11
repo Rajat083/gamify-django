@@ -79,12 +79,12 @@ WSGI_APPLICATION = 'gamify.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'railway',
-        'USER': 'your_database_user',
+        'USER': 'postgres',
         'PASSWORD': 'ARpNtmRuqgRIlAuvVWiREphffmpUPOMM',
-        'HOST': 'postgres.railway.internal',  
-        'PORT': '5432',         
+        'HOST': 'yamabiko.proxy.rlwy.net',  
+        'PORT': '35044',         
     }
 }
 
