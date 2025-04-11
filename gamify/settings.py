@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-40t7k^z9418lx))2%ym5*a+u+0inf)j)&qm-x-3(xrb=^$c86l
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gamify.onrender.com]
 
 
 # Application definition
