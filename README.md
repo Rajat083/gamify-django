@@ -2,6 +2,8 @@
 
 **Gamify** is a productivity-enhancing web app that turns your daily goals into a game. Earn XP, complete tasks, and unlock achievements — all while staying focused and motivated.
 
+link: https://gamify-django.onrender.com
+
 ---
 
 ## 🚀 Features
@@ -19,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 - **Backend**: Django
-- **Database**: SQLite (can be upgraded to PostgreSQL)
+- **Database**: SQLite(for local) deployed on PostgreSql
 - **Frontend**: HTML5, Bootstrap (optional)
 - **Hosting**: Vercel (configured via `vercel.json` and `vercel_wsgi.py`)
 
