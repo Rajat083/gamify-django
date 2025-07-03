@@ -23,8 +23,7 @@ link: https://gamify-django.onrender.com
 - **Backend**: Django
 - **Database**: SQLite(for local) deployed on PostgreSql
 - **Frontend**: HTML5, Bootstrap (optional)
-- **Hosting**: Vercel (configured via `vercel.json` and `vercel_wsgi.py`)
-
+- **Hosting**: Render, Railway
 ---
 
 ## 📁 Project Structure
