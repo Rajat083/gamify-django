@@ -14,7 +14,7 @@ link: https://gamify-django.onrender.com
 - 👤 User authentication (login/register)
 - ⚙️ Admin panel to manage users and data
 - 🧩 Modular Django apps
-- 🔄 Vercel + WSGI + Procfile included for deployment
+- 🔄 Render for backend Railway for DataBase
 
 ---
 
